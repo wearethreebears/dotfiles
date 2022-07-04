@@ -1,0 +1,73 @@
+{
+    "customizeUI.stylesheet": {
+      ".editor-actions": "display: none !important;"
+    },
+    "workbench.colorCustomizations": {
+      "scrollbar.shadow": "#ffffff00",
+      "widget.shadow": "#ffffff00"
+    },
+    "customizeUI.titleBar": "frameless",
+    "window.titleBarStyle": "custom",
+    "breadcrumbs.filePath": "off",
+    "breadcrumbs.showFiles": false,
+    "editor.tabSize": 4,
+    "editor.fontSize": 15,
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 35,
+    "workbench.statusBar.feedback.visible": false,
+    "zenMode.hideStatusBar": false,
+    "workbench.statusBar.visible": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.fontAliasing": "antialiased",
+    "workbench.iconTheme": null,
+    "breadcrumbs.enabled": true,
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.letterSpacing": 0.2,
+    "editor.minimap.enabled": false,
+    "workbench.tree.indent": 16,
+    "workbench.list.horizontalScrolling": true,
+    "workbench.editor.showTabs": false,
+    "vscode_custom_css.policy": true,
+    "workbench.activityBar.visible": false,
+    "explorer.confirmDelete": false,
+    "workbench.sideBar.location": "right",
+    "editor.fontFamily": "Victor Mono",
+    "editor.fontWeight": "500",
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [
+        {
+          "scope": "entity.other.attribute-name",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        }
+      ]
+    },
+    "vscode_custom_css.imports": [
+      "file:///Users/liamhall/Documents/web-development/visual-studio/custom.css"
+    ],
+    "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "One Dark Pro Italic",
+    "editor.formatOnSave": true,
+    "tailwindCSS.includeLanguages": { 
+      "plaintext": "javascript" 
+    },
+    "editor.quickSuggestions": {
+      "strings": true
+    }
+  }
+  
